@@ -1,4 +1,4 @@
-!!! UTILIZE O MAIN.PY !!!
+!!! UTILIZE O MAIN.PY ou PYTUBE.EXE !!!
 
 Download de videos/playlist do youtube diretamente
 
